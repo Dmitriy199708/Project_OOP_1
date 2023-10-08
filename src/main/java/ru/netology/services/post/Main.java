@@ -15,5 +15,8 @@ public class Main {
         post.birthday.month = 2;
         post.birthday.year = 2012;
 
+//        System.out.println(post.name + " " + post.passport );
     }
+
+
 }

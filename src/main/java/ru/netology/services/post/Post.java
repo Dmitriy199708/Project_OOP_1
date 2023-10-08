@@ -7,13 +7,7 @@ public class Post {
     public String phone; // Номер телефона
     public String surname; // Фамилия
     public boolean subscription; // Будет ли получать пользователь новости по смс
-    public FormDate birthday; // Задаем переменную содержащую в себе день месяц и год
-}
-
-class FormDate {
-    public int day; // день
-    public int month; // месяц
-    public int year; // год
+    public FormDate birthday;
 
 }
 
